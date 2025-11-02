@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cantemir\\Desktop\\flight-analysis\\flighty-flight\\flighty-flight\\flighty-flight.csproj": {}
+    "C:\\Users\\Cantemir\\Desktop\\flighty-flight\\flighty-flight\\flighty-flight.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cantemir\\Desktop\\flight-analysis\\flighty-flight\\flighty-flight\\flighty-flight.csproj": {
+    "C:\\Users\\Cantemir\\Desktop\\flighty-flight\\flighty-flight\\flighty-flight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cantemir\\Desktop\\flight-analysis\\flighty-flight\\flighty-flight\\flighty-flight.csproj",
+        "projectUniqueName": "C:\\Users\\Cantemir\\Desktop\\flighty-flight\\flighty-flight\\flighty-flight.csproj",
         "projectName": "flighty-flight",
-        "projectPath": "C:\\Users\\Cantemir\\Desktop\\flight-analysis\\flighty-flight\\flighty-flight\\flighty-flight.csproj",
+        "projectPath": "C:\\Users\\Cantemir\\Desktop\\flighty-flight\\flighty-flight\\flighty-flight.csproj",
         "packagesPath": "C:\\Users\\Cantemir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cantemir\\Desktop\\flight-analysis\\flighty-flight\\flighty-flight\\obj\\",
+        "outputPath": "C:\\Users\\Cantemir\\Desktop\\flighty-flight\\flighty-flight\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
